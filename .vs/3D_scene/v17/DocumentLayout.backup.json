@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\git uploads\\3d_scene\\assets\\scenes\\prevent fast-moving objects rom clipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\prevent fast-moving objects rom clipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\git uploads\\3d_scene\\assets\\scenes\\customizing physics with materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\customizing physics with materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\assets\\scenes\\physics-based interactions pushable objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\physics-based interactions pushable objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\assets\\scenes\\collision detection and object destruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\collision detection and object destruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\assets\\scenes\\object movement with physics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\object movement with physics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prevent fast-moving objects rom clipping.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Prevent fast-moving objects rom clipping.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Prevent fast-moving objects rom clipping.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Prevent fast-moving objects rom clipping.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Prevent fast-moving objects rom clipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:27:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customizing physics with materials.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Customizing physics with materials.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Customizing physics with materials.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Customizing physics with materials.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Customizing physics with materials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:25:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Physics-based interactions pushable objects.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Physics-based interactions pushable objects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Physics-based interactions pushable objects.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Physics-based interactions pushable objects.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Physics-based interactions pushable objects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:23:50.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collision Detection and Object Destruction.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Collision Detection and Object Destruction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Collision Detection and Object Destruction.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Collision Detection and Object Destruction.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Collision Detection and Object Destruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:22:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Object Movement with physics.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Object Movement with physics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Object Movement with physics.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\Object Movement with physics.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Object Movement with physics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:20:05.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
